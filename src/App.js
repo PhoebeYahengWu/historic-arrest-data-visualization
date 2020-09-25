@@ -123,7 +123,7 @@ class App extends Component {
                 </a>
               </p>
             </div>
-            <div className="col-md-7">
+            <div className="col-md-7 mt-2">
               <div className="card">
                 <MapBox results={this.state.filtered} />
               </div>
