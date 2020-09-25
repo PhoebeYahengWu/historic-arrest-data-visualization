@@ -103,11 +103,11 @@ class App extends Component {
               <p>
               NYC Historic Arrest Data Visualization is a dashboard that helps people to be more informed of the historic arrest rates in New York City and increases transparency of NYPD actions and arrests.<br/><br/> 
 
-The dashboard displays a maximum of 1000 arrests per screen for the selected arrest type affected in NYC by the NYPD from 2006 (the first year full NYPD arrest data was available) to 2019. <br/><br/>
+              The dashboard displays a maximum of 1000 arrests per screen for the selected arrest type affected in NYC by the NYPD from 2006 (the first year full NYPD arrest data was available) to 2019. <br/><br/>
 
-Users can select an arrest type from the drop-down list; the location of the arrests will then be displayed on the map with their arrest date. Meanwhile, the aggregate number of arrests in each borough will be displayed on one bar chart, with the number of arrestees in each age range displayed on another bar chart. <br/><br/>
+              Users can select an arrest type from the drop-down list; the location of the arrests will then be displayed on the map with their arrest date. Meanwhile, the aggregate number of arrests in each borough will be displayed on one bar chart, with the number of arrestees in each age range displayed on another bar chart. <br/><br/>
 
-At the bottom, a line graph is used to show the number of arrests over time. By pressing the "prev" or "next" button, users are able to see a maximum of another 1000 arrests from the previous or next period.  
+              At the bottom, a line graph is used to show the number of arrests over time. By pressing the "prev" or "next" button, users are able to see a maximum of another 1000 arrests from the previous or next period.  
               </p>
 
               <p>
