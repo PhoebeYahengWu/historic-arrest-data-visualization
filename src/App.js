@@ -101,7 +101,7 @@ class App extends Component {
               </div>
 
               <p>
-              NYC Historic Arrest Data Visualization is a dashboard that helps people to be more informed of the historic arrest rates in New York City and increases transparency of NYPD actions and arrests.<br/><br/> 
+              NYC Historic Arrest Data Visualization is a dashboard that helps people to be more informed of the historic arrest rates in New York City and increases the transparency of NYPD actions and arrests.<br/><br/> 
 
               The dashboard displays a maximum of 1000 arrests per screen for the selected arrest type affected in NYC by the NYPD from 2006 (the first year full NYPD arrest data was available) to 2019. <br/><br/>
 
