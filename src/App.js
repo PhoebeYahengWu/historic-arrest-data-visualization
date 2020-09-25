@@ -10,7 +10,7 @@ class App extends Component {
     ofns_desc: [],
     sel_ofns: "",
     offet: 0,
-    limit: 100,
+    limit: 1000,
     results: [],
     filtered: [],
   };
