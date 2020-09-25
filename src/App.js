@@ -16,6 +16,12 @@ class App extends Component {
   };
 
   componentDidMount() {
+    this.setState(
+      {
+        sel_ofns: "BURGLARY",
+      },
+      this.searchArrests
+    );
     this.searchArrestType();
   }
 
@@ -85,6 +91,7 @@ class App extends Component {
         <div className="container-fluid">
           <div className="row mt-2">
             <div className="col-md-4">
+            <h5 className="text-center">Choose Another Arrest Type</h5>
               <SearchForm
                 results={this.state.ofns_desc}
                 handleInputChange={this.handleInputChange}

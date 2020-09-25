@@ -9,7 +9,7 @@ function SearchForm({ results, handleInputChange }) {
         id="inputGroupSelect01"
         onChange={handleInputChange}
       >
-        <option value=""> Choose Arrest Type </option>
+        <option value="BURGLARY" selected="selected">BURGLARY</option>
         {results.map((ele, i) => (
           <option key={i + "-el"} value={ele}>
             {ele}
