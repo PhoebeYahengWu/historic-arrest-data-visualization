@@ -96,7 +96,7 @@ class App extends Component {
               <p>
                 NYC Historic Arrest Data Visualization is a dashboard that
                 displays every arrest effected in NYC by the NYPD going back to
-                2006 through 2018. Users can select an arrest type from the
+                2006 through 2019. Users can select an arrest type from the
                 drop-down list; the location of each arrest will then be
                 displayed on the map with their arrest date. Meanwhile, the
                 aggregate number of arrests in each borough will be displayed on
