@@ -3,9 +3,11 @@ nav {
 }
 
 #mapid {
-  height: 50vh;
+  height: 60vh;
 }
 
+button:focus,
+button:hover,
 select:focus,
 select:hover {
   outline: none !important;
