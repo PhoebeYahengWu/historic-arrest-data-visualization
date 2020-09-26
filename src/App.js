@@ -129,7 +129,7 @@ class App extends Component {
               </div>
             </div>
 
-            <div className="col-md-12 mt-2">
+            <div className="col-md-12">
               <ResultList results={this.state.filtered} />
             </div>
 
