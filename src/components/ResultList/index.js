@@ -138,12 +138,12 @@ function ResultList(props) {
   return (
     <div className="container-fluid mb-2">
       <div className="row">
-        <div className="col-md-6" style={{paddingLeft: "2px", paddingRight: "2px"}}>
+        <div className="col-md-6 mt-2" style={{paddingLeft: "2px", paddingRight: "2px"}}>
         <div className="card">
           <BoroChart results={props.results} />{" "}
           </div>
         </div>{" "}
-        <div className="col-md-6" style={{paddingLeft: "2px", paddingRight: "2px"}}>
+        <div className="col-md-6 mt-2" style={{paddingLeft: "2px", paddingRight: "2px"}}>
         <div className="card">
           <BarChart type="age_group" />
           </div>
